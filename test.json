@@ -1,0 +1,13 @@
+{
+    "s1": "bluesky20",
+    "s2": "a\bb\fc\nd\re\tf\\g\/h\"i",
+    "num1": 1.9,
+    "bool": true,
+    "null": null,
+    "arr1": [1.1, false, "sdf778null"],
+    "obj": {
+        "bool2": false,
+        "arr2": [null, "sdjfs454d", 17.3],
+        "num2": 1.36
+    }
+}
